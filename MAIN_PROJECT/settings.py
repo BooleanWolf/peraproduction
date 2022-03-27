@@ -132,5 +132,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
     'https://me-20.vercel.app',
-    'https://www.buetme20.com'
+    'https://www.buetme20.com',
+    'https://urp-20.vercel.app /',
+
 ]
